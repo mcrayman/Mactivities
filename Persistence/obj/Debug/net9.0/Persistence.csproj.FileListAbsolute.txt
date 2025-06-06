@@ -1,0 +1,16 @@
+/Users/matthewmcmeans/Downloads/Projects/Reactivities/Persistence/bin/Debug/net9.0/Persistence.deps.json
+/Users/matthewmcmeans/Downloads/Projects/Reactivities/Persistence/bin/Debug/net9.0/Persistence.dll
+/Users/matthewmcmeans/Downloads/Projects/Reactivities/Persistence/bin/Debug/net9.0/Persistence.pdb
+/Users/matthewmcmeans/Downloads/Projects/Reactivities/Persistence/bin/Debug/net9.0/Domain.dll
+/Users/matthewmcmeans/Downloads/Projects/Reactivities/Persistence/bin/Debug/net9.0/Domain.pdb
+/Users/matthewmcmeans/Downloads/Projects/Reactivities/Persistence/obj/Debug/net9.0/Persistence.csproj.AssemblyReference.cache
+/Users/matthewmcmeans/Downloads/Projects/Reactivities/Persistence/obj/Debug/net9.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matthewmcmeans/Downloads/Projects/Reactivities/Persistence/obj/Debug/net9.0/Persistence.AssemblyInfoInputs.cache
+/Users/matthewmcmeans/Downloads/Projects/Reactivities/Persistence/obj/Debug/net9.0/Persistence.AssemblyInfo.cs
+/Users/matthewmcmeans/Downloads/Projects/Reactivities/Persistence/obj/Debug/net9.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/matthewmcmeans/Downloads/Projects/Reactivities/Persistence/obj/Debug/net9.0/Persistence.sourcelink.json
+/Users/matthewmcmeans/Downloads/Projects/Reactivities/Persistence/obj/Debug/net9.0/Persiste.61C28332.Up2Date
+/Users/matthewmcmeans/Downloads/Projects/Reactivities/Persistence/obj/Debug/net9.0/Persistence.dll
+/Users/matthewmcmeans/Downloads/Projects/Reactivities/Persistence/obj/Debug/net9.0/refint/Persistence.dll
+/Users/matthewmcmeans/Downloads/Projects/Reactivities/Persistence/obj/Debug/net9.0/Persistence.pdb
+/Users/matthewmcmeans/Downloads/Projects/Reactivities/Persistence/obj/Debug/net9.0/ref/Persistence.dll

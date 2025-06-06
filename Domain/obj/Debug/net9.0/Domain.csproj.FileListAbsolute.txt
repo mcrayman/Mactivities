@@ -1,0 +1,12 @@
+/Users/matthewmcmeans/Downloads/Projects/Reactivities/Domain/bin/Debug/net9.0/Domain.deps.json
+/Users/matthewmcmeans/Downloads/Projects/Reactivities/Domain/bin/Debug/net9.0/Domain.dll
+/Users/matthewmcmeans/Downloads/Projects/Reactivities/Domain/bin/Debug/net9.0/Domain.pdb
+/Users/matthewmcmeans/Downloads/Projects/Reactivities/Domain/obj/Debug/net9.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matthewmcmeans/Downloads/Projects/Reactivities/Domain/obj/Debug/net9.0/Domain.AssemblyInfoInputs.cache
+/Users/matthewmcmeans/Downloads/Projects/Reactivities/Domain/obj/Debug/net9.0/Domain.AssemblyInfo.cs
+/Users/matthewmcmeans/Downloads/Projects/Reactivities/Domain/obj/Debug/net9.0/Domain.csproj.CoreCompileInputs.cache
+/Users/matthewmcmeans/Downloads/Projects/Reactivities/Domain/obj/Debug/net9.0/Domain.sourcelink.json
+/Users/matthewmcmeans/Downloads/Projects/Reactivities/Domain/obj/Debug/net9.0/Domain.dll
+/Users/matthewmcmeans/Downloads/Projects/Reactivities/Domain/obj/Debug/net9.0/refint/Domain.dll
+/Users/matthewmcmeans/Downloads/Projects/Reactivities/Domain/obj/Debug/net9.0/Domain.pdb
+/Users/matthewmcmeans/Downloads/Projects/Reactivities/Domain/obj/Debug/net9.0/ref/Domain.dll
