@@ -232,3 +232,45 @@ _Pvt_Extensions
 
 # FAKE - F# Make
 .fake/
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# VS Code settings
+.vscode/
+
+# ASP.NET Core user secrets
+**/secrets.json
+
+# Logs
+*.log
+logs/
+
+# Coverage reports
+coverage/
+*.lcov
+
+# SQLite and local DB files
+*.sqlite
+*.db
+*.db3
+
+# Environment variable files
+.env
+.env.*
+
+# Rider IDE files
+.idea/
+*.sln.iml
+
+# JetBrains Rider caches
+.idea/
+.idea_modules/
+.idea_config/
+.idea_system/
+
+# End of file
+*.dll
+*.pdb
