@@ -11,4 +11,14 @@ public class ActivitiesController(AppDbContext context) : BaseApiController
   {
     return await context.Activities.ToListAsync();
   }
+
+  [HttpGet("{id}")]
+  public async Task<ActionResult<Domain.Activity>> GetActivityDetail(string id)
+  {
+    var activity = await context.Activities.FindAsync(id);
+
+    if (activity == null) return NotFound();
+
+    return activity;
+  }
 }
